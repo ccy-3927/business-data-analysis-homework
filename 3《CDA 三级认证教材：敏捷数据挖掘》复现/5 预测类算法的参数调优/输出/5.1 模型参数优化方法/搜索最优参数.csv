@@ -1,0 +1,5 @@
+﻿,方法,训练CV_AUC,最优参数
+0,网格,0.6994245893439027,"{'model__colsample_bytree': 0.8, 'model__max_depth': 3, 'model__n_estimators': 100, 'model__subsample': 0.9}"
+1,逐次减半,0.6892945806334986,"{'model__colsample_bytree': 0.6, 'model__max_depth': 4, 'model__subsample': 0.8, 'model__n_estimators': 180}"
+2,随机,0.699861240504097,"{'model__colsample_bytree': np.float64(0.8254442364744264), 'model__max_depth': 3, 'model__n_estimators': 101, 'model__subsample': np.float64(0.8609993861334124)}"
+3,TPE_LightGBM,0.708274055741577,"{'reg_lambda': 8.699066049412115, 'num_leaves': 17, 'colsample_bytree': 0.6405735818092264, 'subsample': 0.7865235503000071}"

@@ -1,0 +1,22 @@
+|--- interest <= 0.50
+|   |--- interested_sport <= 286.50
+|   |   |--- auto_member <= 618.50
+|   |   |   |--- class: 0
+|   |   |--- auto_member >  618.50
+|   |   |   |--- class: 0
+|   |--- interested_sport >  286.50
+|   |   |--- auto_member <= 514.50
+|   |   |   |--- class: 0
+|   |   |--- auto_member >  514.50
+|   |   |   |--- class: 1
+|--- interest >  0.50
+|   |--- interested_sport <= 218.50
+|   |   |--- interest <= 0.70
+|   |   |   |--- class: 0
+|   |   |--- interest >  0.70
+|   |   |   |--- class: 1
+|   |--- interested_sport >  218.50
+|   |   |--- auto_member <= 434.50
+|   |   |   |--- class: 1
+|   |   |--- auto_member >  434.50
+|   |   |   |--- class: 1

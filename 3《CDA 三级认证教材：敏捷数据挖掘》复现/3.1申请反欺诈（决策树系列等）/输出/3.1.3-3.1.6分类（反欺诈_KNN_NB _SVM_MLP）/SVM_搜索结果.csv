@@ -1,0 +1,5 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'model__C': 0.1, 'model__gamma': 'scale', 'model__kernel': 'linear'}",0.5646564617115977,0.08791882747943001,3
+1,"{'model__C': 0.1, 'model__gamma': 'scale', 'model__kernel': 'rbf'}",0.5792891596849644,0.11062865261301998,2
+2,"{'model__C': 1.0, 'model__gamma': 'scale', 'model__kernel': 'linear'}",0.5646064138881219,0.08789931472328988,4
+3,"{'model__C': 1.0, 'model__gamma': 'scale', 'model__kernel': 'rbf'}",0.610480101158415,0.06602378219337424,1

@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                avg_exp   R-squared:                       0.591
+Model:                            OLS   Adj. R-squared:                  0.573
+Method:                 Least Squares   F-statistic:                     31.83
+Date:                Wed, 28 Oct 2026   Prob (F-statistic):           7.66e-13
+Time:                        14:10:17   Log-Likelihood:                -494.58
+No. Observations:                  70   AIC:                             997.2
+Df Residuals:                      66   BIC:                             1006.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================
+                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept           207.3700    206.289      1.005      0.318    -204.499     619.239
+C(edu_class)[T.1]   434.5678    215.071      2.021      0.047       5.165     863.971
+C(edu_class)[T.2]   765.9513    215.071      3.561      0.001     336.549    1195.354
+C(edu_class)[T.3]  1214.9109    215.462      5.639      0.000     784.728    1645.094
+==============================================================================
+Omnibus:                       11.190   Durbin-Watson:                   2.279
+Prob(Omnibus):                  0.004   Jarque-Bera (JB):               14.093
+Skew:                           0.677   Prob(JB):                     0.000871
+Kurtosis:                       4.732   Cond. No.                         13.7
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

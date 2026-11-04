@@ -1,0 +1,36 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             avg_exp_ln   R-squared:                       0.939
+Model:                            OLS   Adj. R-squared:                  0.930
+Method:                 Least Squares   F-statistic:                     102.3
+Date:                Wed, 28 Oct 2026   Prob (F-statistic):           5.18e-33
+Time:                        14:44:30   Log-Likelihood:                 50.938
+No. Observations:                  70   AIC:                            -81.88
+Df Residuals:                      60   BIC:                            -59.39
+Df Model:                           9                                         
+Covariance Type:            nonrobust                                         
+====================================================================================================
+                                       coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+Intercept                            3.5014      0.188     18.577      0.000       3.124       3.878
+C(Selfempl)[T.1]                    -0.2949      0.101     -2.926      0.005      -0.497      -0.093
+C(gender)[T.1]                      -0.2624      0.038     -6.825      0.000      -0.339      -0.185
+C(edu_class)[T.1]                    0.8962      0.095      9.389      0.000       0.705       1.087
+C(edu_class)[T.2]                    1.2122      0.098     12.396      0.000       1.017       1.408
+C(edu_class)[T.3]                    1.4514      0.106     13.708      0.000       1.240       1.663
+C(gender)[T.1]:C(edu_class)[T.1]     0.2549      0.073      3.468      0.001       0.108       0.402
+C(gender)[T.1]:C(edu_class)[T.2]    -0.1769      0.053     -3.360      0.001      -0.282      -0.072
+C(gender)[T.1]:C(edu_class)[T.3]    -0.3404      0.051     -6.622      0.000      -0.443      -0.238
+dist_avg_income_ln                   0.9963      0.077     12.973      0.000       0.843       1.150
+dist_home_val_ln                     0.0653      0.029      2.287      0.026       0.008       0.122
+==============================================================================
+Omnibus:                        5.540   Durbin-Watson:                   1.715
+Prob(Omnibus):                  0.063   Jarque-Bera (JB):                5.913
+Skew:                          -0.345   Prob(JB):                       0.0520
+Kurtosis:                       4.245   Cond. No.                     6.71e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 3.6e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

@@ -1,0 +1,10 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'learning_rate': 0.5, 'n_estimators': 15}",0.6552065767443271,0.03619113128785958,6
+1,"{'learning_rate': 0.5, 'n_estimators': 20}",0.6559391202697189,0.0365562741500907,4
+2,"{'learning_rate': 0.5, 'n_estimators': 25}",0.6559391202697189,0.0365562741500907,4
+3,"{'learning_rate': 1, 'n_estimators': 15}",0.6563311615536125,0.03588890422912412,1
+4,"{'learning_rate': 1, 'n_estimators': 20}",0.6563311615536125,0.03588890422912412,1
+5,"{'learning_rate': 1, 'n_estimators': 25}",0.6563311615536125,0.03588890422912412,1
+6,"{'learning_rate': 1.5, 'n_estimators': 15}",0.6521390222379053,0.03633796302146019,9
+7,"{'learning_rate': 1.5, 'n_estimators': 20}",0.6521940613768485,0.03634777768828898,7
+8,"{'learning_rate': 1.5, 'n_estimators': 25}",0.6521940613768485,0.03634777768828898,7

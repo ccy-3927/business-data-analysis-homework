@@ -1,0 +1,65 @@
+﻿,order,seasonal,AIC,收敛,警告
+0,"(0, 0, 0)","(0, 0, 0)",763.1499374541206,True,
+1,"(0, 0, 0)","(0, 0, 1)",637.9196677024872,True,Non-invertible starting seasonal moving average Using zeros as starting parameters.
+2,"(0, 0, 0)","(0, 1, 0)",-118.98844187079024,True,
+3,"(0, 0, 0)","(0, 1, 1)",-156.7559359466463,True,
+4,"(0, 0, 0)","(1, 0, 0)",-41.02568507453753,True,Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+5,"(0, 0, 0)","(1, 0, 1)",-78.82454339524062,True,Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+6,"(0, 0, 0)","(1, 1, 0)",-195.03441459822565,True,
+7,"(0, 0, 0)","(1, 1, 1)",-224.90133418710306,True,
+8,"(0, 0, 1)","(0, 0, 0)",604.8817706144681,True,
+9,"(0, 0, 1)","(0, 0, 1)",478.79775558906294,True,Non-invertible starting seasonal moving average Using zeros as starting parameters.
+10,"(0, 0, 1)","(0, 1, 0)",-205.9518101540564,True,
+11,"(0, 0, 1)","(0, 1, 1)",-221.85758269937133,True,
+12,"(0, 0, 1)","(1, 0, 0)",-119.33029993486002,True,Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+13,"(0, 0, 1)","(1, 0, 1)",-101.32124791368989,True,Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+14,"(0, 0, 1)","(1, 1, 0)",-239.69247176224215,True,
+15,"(0, 0, 1)","(1, 1, 1)",-272.28224249715544,True,
+16,"(0, 1, 0)","(0, 0, 0)",-148.98514451048155,True,
+17,"(0, 1, 0)","(0, 0, 1)",-236.51839627135715,True,
+18,"(0, 1, 0)","(0, 1, 0)",-353.5209262340471,False,Maximum Likelihood optimization failed to converge. Check mle_retvals
+19,"(0, 1, 0)","(0, 1, 1)",-380.12119945075716,True,
+20,"(0, 1, 0)","(1, 0, 0)",-370.2990402907453,True,
+21,"(0, 1, 0)","(1, 0, 1)",-394.3408368824236,True,
+22,"(0, 1, 0)","(1, 1, 0)",-372.0708491026661,True,
+23,"(0, 1, 0)","(1, 1, 1)",-378.1220380964148,True,
+24,"(0, 1, 1)","(0, 0, 0)",-148.8777313674448,True,
+25,"(0, 1, 1)","(0, 0, 1)",-234.76024005011737,True,
+26,"(0, 1, 1)","(0, 1, 0)",-365.17665250767004,True,
+27,"(0, 1, 1)","(0, 1, 1)",-389.63547356351995,True,
+28,"(0, 1, 1)","(1, 0, 0)",-378.79197000525943,True,
+29,"(0, 1, 1)","(1, 0, 1)",-401.5910283293388,True,
+30,"(0, 1, 1)","(1, 1, 0)",-385.2327196878703,True,
+31,"(0, 1, 1)","(1, 1, 1)",-387.8771813509835,True,
+32,"(1, 0, 0)","(0, 0, 0)",-140.72151508940476,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
+33,"(1, 0, 0)","(0, 0, 1)",-228.25099161434025,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-invertible starting seasonal moving average Using zeros as starting parameters.
+34,"(1, 0, 0)","(0, 1, 0)",-356.5898359003952,False,Maximum Likelihood optimization failed to converge. Check mle_retvals
+35,"(1, 0, 0)","(0, 1, 1)",-380.27742083461885,True,
+36,"(1, 0, 0)","(1, 0, 0)",-363.05906787240326,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+37,"(1, 0, 0)","(1, 0, 1)",-388.2884432252039,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+38,"(1, 0, 0)","(1, 1, 0)",-373.3038498199703,True,
+39,"(1, 0, 0)","(1, 1, 1)",-378.2778663554034,True,
+40,"(1, 0, 1)","(0, 0, 0)",-140.6159085948911,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
+41,"(1, 0, 1)","(0, 0, 1)",-224.9119231507911,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-invertible starting seasonal moving average Using zeros as starting parameters.
+42,"(1, 0, 1)","(0, 1, 0)",-366.46674114972336,True,
+43,"(1, 0, 1)","(0, 1, 1)",-389.6546175348798,True,
+44,"(1, 0, 1)","(1, 0, 0)",-371.44881429763916,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+45,"(1, 0, 1)","(1, 0, 1)",-395.09418232312385,True,Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.; Non-stationary starting seasonal autoregressive Using zeros as starting parameters.
+46,"(1, 0, 1)","(1, 1, 0)",-385.6464032976428,True,
+47,"(1, 0, 1)","(1, 1, 1)",-387.92465617874257,True,
+48,"(1, 1, 0)","(0, 0, 0)",-148.79835366875918,True,
+49,"(1, 1, 0)","(0, 0, 1)",-234.76358826855352,True,
+50,"(1, 1, 0)","(0, 1, 0)",-364.6765638007615,True,
+51,"(1, 1, 0)","(0, 1, 1)",-389.416931420318,True,
+52,"(1, 1, 0)","(1, 0, 0)",-378.76609579330363,True,
+53,"(1, 1, 0)","(1, 0, 1)",-401.6658167302369,True,
+54,"(1, 1, 0)","(1, 1, 0)",-384.5766509144418,True,
+55,"(1, 1, 0)","(1, 1, 1)",-387.57006989351834,True,
+56,"(1, 1, 1)","(0, 0, 0)",-146.8818524074331,True,
+57,"(1, 1, 1)","(0, 0, 1)",-232.76361263389165,True,
+58,"(1, 1, 1)","(0, 1, 0)",-363.2543983180677,True,
+59,"(1, 1, 1)","(0, 1, 1)",-387.41573042939524,True,
+60,"(1, 1, 1)","(1, 0, 0)",-376.7438705375143,True,
+61,"(1, 1, 1)","(1, 0, 1)",-399.70090582333836,True,
+62,"(1, 1, 1)","(1, 1, 0)",-383.2382645252144,True,
+63,"(1, 1, 1)","(1, 1, 1)",-385.9694924704311,True,

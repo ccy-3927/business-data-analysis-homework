@@ -1,0 +1,13 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (10,)}",0.31137805599148954,0.03796239244604395,11
+1,"{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (15,)}",0.3597743416931952,0.07727998283964989,10
+2,"{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (5, 5)}",0.431488509192759,0.08717466738444733,7
+3,"{'model__activation': 'relu', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (10,)}",0.31137805599148954,0.03796239244604396,11
+4,"{'model__activation': 'relu', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (15,)}",0.3940337686561723,0.03725875420149575,9
+5,"{'model__activation': 'relu', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (5, 5)}",0.431488509192759,0.08717466738444733,7
+6,"{'model__activation': 'logistic', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (10,)}",0.5638672727477315,0.08633458030672386,2
+7,"{'model__activation': 'logistic', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (15,)}",0.4783395826277051,0.10828104050250174,5
+8,"{'model__activation': 'logistic', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (5, 5)}",0.5571749549754589,0.08698694678065293,3
+9,"{'model__activation': 'logistic', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (10,)}",0.564648574880881,0.08648387916529068,1
+10,"{'model__activation': 'logistic', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (15,)}",0.4728782394457639,0.09838075076048498,6
+11,"{'model__activation': 'logistic', 'model__alpha': 1.0, 'model__hidden_layer_sizes': (5, 5)}",0.48968619454240836,0.11606294949992862,4

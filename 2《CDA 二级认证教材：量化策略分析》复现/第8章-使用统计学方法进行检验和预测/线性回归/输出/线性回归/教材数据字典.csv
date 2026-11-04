@@ -1,0 +1,11 @@
+﻿,#id,id,Unnamed: 2
+0,#Acc,是否开卡(1=已开通),
+1,#avg_exp,月均信用卡支出（元）,因变量
+2,#gender,性别,
+3,#Age,年龄,
+4,#Income,年收入（万元）,
+5,#Ownrent,是否自有住房（有=1；无=0),
+6,#Selfempl,"是否自谋职业(1=yes, 0=no)",
+7,#dist_home_val,所住小区房屋均价(万元),
+8,#dist_avg_income,当地人均收入,
+9,#edu_class,教育等级：小学及以下，中学，本科，研究生,

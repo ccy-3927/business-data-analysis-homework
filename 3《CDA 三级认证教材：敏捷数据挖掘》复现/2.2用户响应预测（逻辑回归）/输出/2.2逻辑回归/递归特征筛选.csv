@@ -1,0 +1,10 @@
+﻿,变量,排名,保留
+0,Age,2,False
+1,Income,1,True
+2,dist_home_val,5,False
+3,dist_avg_income,1,True
+4,high_avg,6,False
+5,gender,3,False
+6,Ownrent,4,False
+7,Selfempl,1,True
+8,edu_class,1,True

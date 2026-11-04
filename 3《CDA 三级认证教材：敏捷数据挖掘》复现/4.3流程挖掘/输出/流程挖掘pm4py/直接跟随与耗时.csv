@@ -1,0 +1,17 @@
+﻿,前活动,后活动,频次,平均小时
+0,register request,examine casually,3,8.955555555555556
+1,examine casually,check ticket,4,13.325
+2,check ticket,decide,6,50.544444444444444
+3,decide,reinitiate request,3,18.444444444444443
+4,reinitiate request,examine thoroughly,1,0.8
+5,examine thoroughly,check ticket,2,85.85833333333333
+6,decide,pay compensation,3,142.82222222222222
+7,register request,check ticket,2,10.866666666666667
+8,check ticket,examine casually,2,25.675
+9,examine casually,decide,2,104.28333333333333
+10,register request,examine thoroughly,1,23.066666666666666
+11,decide,reject request,3,42.84444444444444
+12,reinitiate request,check ticket,1,70.25
+13,reinitiate request,examine casually,1,20.3
+14,check ticket,examine thoroughly,1,26.616666666666667
+15,examine thoroughly,decide,1,21.316666666666666

@@ -1,0 +1,43 @@
+﻿,案例,活动,时间,资源
+0,3,register request,2010-12-30 13:32:00+00:00,Pete
+1,3,examine casually,2010-12-30 14:06:00+00:00,Mike
+2,3,check ticket,2010-12-30 15:34:00+00:00,Ellen
+3,3,decide,2011-01-06 08:18:00+00:00,Sara
+4,3,reinitiate request,2011-01-06 11:18:00+00:00,Sara
+5,3,examine thoroughly,2011-01-06 12:06:00+00:00,Sean
+6,3,check ticket,2011-01-08 10:43:00+00:00,Pete
+7,3,decide,2011-01-09 08:55:00+00:00,Sara
+8,3,pay compensation,2011-01-15 09:45:00+00:00,Ellen
+9,2,register request,2010-12-30 10:32:00+00:00,Mike
+10,2,check ticket,2010-12-30 11:12:00+00:00,Mike
+11,2,examine casually,2010-12-30 13:16:00+00:00,Sean
+12,2,decide,2011-01-05 10:22:00+00:00,Sara
+13,2,pay compensation,2011-01-08 11:05:00+00:00,Ellen
+14,1,register request,2010-12-30 10:02:00+00:00,Pete
+15,1,examine thoroughly,2010-12-31 09:06:00+00:00,Sue
+16,1,check ticket,2011-01-05 14:12:00+00:00,Mike
+17,1,decide,2011-01-06 10:18:00+00:00,Sara
+18,1,reject request,2011-01-07 13:24:00+00:00,Pete
+19,6,register request,2011-01-06 14:02:00+00:00,Mike
+20,6,examine casually,2011-01-06 15:06:00+00:00,Ellen
+21,6,check ticket,2011-01-07 15:22:00+00:00,Mike
+22,6,decide,2011-01-07 15:52:00+00:00,Sara
+23,6,pay compensation,2011-01-16 10:47:00+00:00,Mike
+24,5,register request,2011-01-06 08:02:00+00:00,Ellen
+25,5,examine casually,2011-01-07 09:16:00+00:00,Mike
+26,5,check ticket,2011-01-08 10:22:00+00:00,Pete
+27,5,decide,2011-01-10 12:28:00+00:00,Sara
+28,5,reinitiate request,2011-01-11 15:18:00+00:00,Sara
+29,5,check ticket,2011-01-14 13:33:00+00:00,Ellen
+30,5,examine casually,2011-01-16 14:50:00+00:00,Mike
+31,5,decide,2011-01-19 10:18:00+00:00,Sara
+32,5,reinitiate request,2011-01-20 11:48:00+00:00,Sara
+33,5,examine casually,2011-01-21 08:06:00+00:00,Sue
+34,5,check ticket,2011-01-21 10:34:00+00:00,Pete
+35,5,decide,2011-01-23 12:12:00+00:00,Sara
+36,5,reject request,2011-01-24 13:56:00+00:00,Mike
+37,4,register request,2011-01-06 14:02:00+00:00,Pete
+38,4,check ticket,2011-01-07 11:06:00+00:00,Mike
+39,4,examine thoroughly,2011-01-08 13:43:00+00:00,Sean
+40,4,decide,2011-01-09 11:02:00+00:00,Sara
+41,4,reject request,2011-01-12 14:44:00+00:00,Ellen

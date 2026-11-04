@@ -1,0 +1,22 @@
+|--- marital <= 7.50
+|   |--- risk_score <= 993.50
+|   |   |--- loan_ratio <= 63.50
+|   |   |   |--- class: 2
+|   |   |--- loan_ratio >  63.50
+|   |   |   |--- class: 0
+|   |--- risk_score >  993.50
+|   |   |--- home_value <= 420780.00
+|   |   |   |--- class: 1
+|   |   |--- home_value >  420780.00
+|   |   |   |--- class: 1
+|--- marital >  7.50
+|   |--- risk_score <= 996.50
+|   |   |--- loan_ratio <= 69.50
+|   |   |   |--- class: 2
+|   |   |--- loan_ratio >  69.50
+|   |   |   |--- class: 2
+|   |--- risk_score >  996.50
+|   |   |--- loan_ratio <= 31.50
+|   |   |   |--- class: 1
+|   |   |--- loan_ratio >  31.50
+|   |   |   |--- class: 1

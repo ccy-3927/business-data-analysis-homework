@@ -1,0 +1,12 @@
+﻿,0
+smoothing_level,0.37782104264704963
+smoothing_trend,0.0
+smoothing_seasonal,0.45781032738158034
+damping_trend,nan
+initial_level,4.797178226847512
+initial_trend,0.009780260559258814
+initial_seasons,"[-0.09398708 -0.03817604  0.07839875  0.03682355 -0.02293863  0.07875242
+  0.16443348  0.15039223  0.05236193 -0.09592256 -0.2387573  -0.09801674]"
+use_boxcox,False
+lamda,None
+remove_bias,False

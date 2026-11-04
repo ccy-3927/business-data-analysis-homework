@@ -1,0 +1,7 @@
+|--- net_size <= 16.00
+|   |--- degree <= 1.50
+|   |   |--- class: 0
+|   |--- degree >  1.50
+|   |   |--- class: 0
+|--- net_size >  16.00
+|   |--- class: 1

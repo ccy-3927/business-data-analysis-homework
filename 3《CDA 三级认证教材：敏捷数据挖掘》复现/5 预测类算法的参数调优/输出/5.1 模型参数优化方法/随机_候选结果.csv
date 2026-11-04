@@ -1,0 +1,21 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'model__colsample_bytree': np.float64(0.6872700594236812), 'model__max_depth': 3, 'model__n_estimators': 114, 'model__subsample': np.float64(0.8659969709057025)}",0.6988517992791533,0.0011294011622522801,3
+1,"{'model__colsample_bytree': np.float64(0.7993292420985183), 'model__max_depth': 5, 'model__n_estimators': 118, 'model__subsample': np.float64(0.5499874579090014)}",0.6760390622582996,9.106959311143184e-05,19
+2,"{'model__colsample_bytree': np.float64(0.7296244459829335), 'model__max_depth': 3, 'model__n_estimators': 135, 'model__subsample': np.float64(0.5714334089609704)}",0.6924325593933321,0.0033308396563782425,8
+3,"{'model__colsample_bytree': np.float64(0.8254442364744264), 'model__max_depth': 3, 'model__n_estimators': 101, 'model__subsample': np.float64(0.8609993861334124)}",0.699861240504097,0.0030798419104454073,1
+4,"{'model__colsample_bytree': np.float64(0.9692763545078751), 'model__max_depth': 4, 'model__n_estimators': 120, 'model__subsample': np.float64(0.8087407548138583)}",0.694078566627588,0.0017997257811617519,4
+5,"{'model__colsample_bytree': np.float64(0.8058265802441404), 'model__max_depth': 3, 'model__n_estimators': 143, 'model__subsample': np.float64(0.5115312125207079)}",0.6891357049428756,0.002853368599135605,13
+6,"{'model__colsample_bytree': np.float64(0.7623873301291946), 'model__max_depth': 5, 'model__n_estimators': 141, 'model__subsample': np.float64(0.5233328316068078)}",0.6681359873628177,0.0028329075198755055,20
+7,"{'model__colsample_bytree': np.float64(0.9868777594207296), 'model__max_depth': 5, 'model__n_estimators': 146, 'model__subsample': np.float64(0.8091930046665436)}",0.6798237804066121,0.0018984370368738807,17
+8,"{'model__colsample_bytree': np.float64(0.6912309956335814), 'model__max_depth': 3, 'model__n_estimators': 102, 'model__subsample': np.float64(0.9299702033681603)}",0.6996899347102253,0.002917575539742573,2
+9,"{'model__colsample_bytree': np.float64(0.8401537692938899), 'model__max_depth': 3, 'model__n_estimators': 138, 'model__subsample': np.float64(0.5066324805799333)}",0.692346428352771,0.003111924236894929,9
+10,"{'model__colsample_bytree': np.float64(0.9711008778424264), 'model__max_depth': 4, 'model__n_estimators': 149, 'model__subsample': np.float64(0.692708251269958)}",0.6845597721632068,0.0014636005509625271,16
+11,"{'model__colsample_bytree': np.float64(0.5079831261101071), 'model__max_depth': 4, 'model__n_estimators': 119, 'model__subsample': np.float64(0.6205127330130058)}",0.6889457927675436,0.0032638970807978697,14
+12,"{'model__colsample_bytree': np.float64(0.8416317594127292), 'model__max_depth': 3, 'model__n_estimators': 107, 'model__subsample': np.float64(0.5171942605576092)}",0.6925659982693825,0.002678338682335182,7
+13,"{'model__colsample_bytree': np.float64(0.954660201039391), 'model__max_depth': 4, 'model__n_estimators': 139, 'model__subsample': np.float64(0.8776807051588262)}",0.6906119994416376,0.0029050753568689047,10
+14,"{'model__colsample_bytree': np.float64(0.7125779372456224), 'model__max_depth': 4, 'model__n_estimators': 141, 'model__subsample': np.float64(0.7838501639099957)}",0.6901847395796074,0.0025236101592350283,12
+15,"{'model__colsample_bytree': np.float64(0.5156566462277793), 'model__max_depth': 4, 'model__n_estimators': 125, 'model__subsample': np.float64(0.7248770666848828)}",0.6904143293535991,0.0014636747551762597,11
+16,"{'model__colsample_bytree': np.float64(0.6975751180009072), 'model__max_depth': 4, 'model__n_estimators': 130, 'model__subsample': np.float64(0.9609371175115584)}",0.6938732474380728,0.00044474951835659076,6
+17,"{'model__colsample_bytree': np.float64(0.5442462510259598), 'model__max_depth': 5, 'model__n_estimators': 139, 'model__subsample': np.float64(0.9222669243390758)}",0.6862398318508651,0.003139748121936653,15
+18,"{'model__colsample_bytree': np.float64(0.8736600550686904), 'model__max_depth': 5, 'model__n_estimators': 123, 'model__subsample': np.float64(0.6783766633467947)}",0.6790687186602872,0.00341559874860881,18
+19,"{'model__colsample_bytree': np.float64(0.6404672548436904), 'model__max_depth': 3, 'model__n_estimators': 140, 'model__subsample': np.float64(0.6481367528520412)}",0.6939526002628101,0.001809933620142104,5

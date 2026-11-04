@@ -1,0 +1,37 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             ln_avg_exp   R-squared:                       0.917
+Model:                            OLS   Adj. R-squared:                  0.901
+Method:                 Least Squares   F-statistic:                     58.17
+Date:                Wed, 28 Oct 2026   Prob (F-statistic):           3.49e-27
+Time:                        14:10:24   Log-Likelihood:                 40.204
+No. Observations:                  70   AIC:                            -56.41
+Df Residuals:                      58   BIC:                            -29.43
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 4.5715      0.326     14.019      0.000       3.919       5.224
+C(edu_class)[T.大学]        0.3791      0.049      7.709      0.000       0.281       0.478
+C(edu_class)[T.小学及以下]    -1.0241      0.111     -9.203      0.000      -1.247      -0.801
+C(edu_class)[T.研究生]       0.5498      0.057      9.692      0.000       0.436       0.663
+gender                    0.0479      0.242      0.198      0.844      -0.436       0.531
+Age                       0.0842      0.020      4.179      0.000       0.044       0.125
+Income                    0.0819      0.011      7.512      0.000       0.060       0.104
+Ownrent                   0.0746      0.047      1.586      0.118      -0.020       0.169
+Selfempl                 -0.3195      0.123     -2.594      0.012      -0.566      -0.073
+dist_home_val             0.0008      0.001      1.560      0.124      -0.000       0.002
+I(Age ** 2)              -0.0012      0.000     -4.132      0.000      -0.002      -0.001
+Age:gender               -0.0139      0.007     -1.999      0.050      -0.028    2.08e-05
+==============================================================================
+Omnibus:                        7.994   Durbin-Watson:                   1.869
+Prob(Omnibus):                  0.018   Jarque-Bera (JB):                7.971
+Skew:                           0.602   Prob(JB):                       0.0186
+Kurtosis:                       4.133   Cond. No.                     2.07e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.07e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

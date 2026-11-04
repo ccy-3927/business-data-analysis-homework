@@ -1,0 +1,33 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                avg_exp   R-squared:                       0.633
+Model:                            OLS   Adj. R-squared:                  0.598
+Method:                 Least Squares   F-statistic:                     18.12
+Date:                Wed, 28 Oct 2026   Prob (F-statistic):           4.35e-12
+Time:                        14:10:17   Log-Likelihood:                -490.80
+No. Observations:                  70   AIC:                             995.6
+Df Residuals:                      63   BIC:                             1011.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+====================================================================================================
+                                       coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+Intercept                          207.3700    200.057      1.037      0.304    -192.412     607.152
+C(edu_class)[T.1]                  417.8090    209.367      1.996      0.050      -0.577     836.195
+C(edu_class)[T.2]                  732.2613    212.977      3.438      0.001     306.661    1157.861
+C(edu_class)[T.3]                 1346.5708    216.086      6.232      0.000     914.757    1778.384
+C(gender)[T.1]                      -0.0168     67.939     -0.000      1.000    -135.782     135.749
+C(edu_class)[T.1]:C(gender)[T.1]   192.7428    162.889      1.183      0.241    -132.765     518.251
+C(edu_class)[T.2]:C(gender)[T.1]    96.8755    110.846      0.874      0.385    -124.632     318.383
+C(edu_class)[T.3]:C(gender)[T.1]  -289.6350    109.331     -2.649      0.010    -508.115     -71.155
+==============================================================================
+Omnibus:                       35.697   Durbin-Watson:                   2.331
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               98.497
+Skew:                           1.590   Prob(JB):                     4.09e-22
+Kurtosis:                       7.864   Cond. No.                     1.47e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 4.75e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

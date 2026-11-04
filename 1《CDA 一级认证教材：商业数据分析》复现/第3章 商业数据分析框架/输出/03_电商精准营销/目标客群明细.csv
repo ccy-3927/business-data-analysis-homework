@@ -1,0 +1,446 @@
+﻿,客户ID,性别,年龄,品类,数量,支付方式,订单月份,订单年份,年龄段
+2,C237330,Female,53,Cosmetics,2,Alipay,1,2023,50岁以上
+17,C134691,Female,50,Cosmetics,4,Card,1,2023,50岁以上
+19,C109593,Female,66,Clothing,1,Card,1,2023,50岁以上
+37,C105474,Female,55,Cosmetics,1,Alipay,1,2023,50岁以上
+40,C184322,Female,61,Cosmetics,1,Card,1,2023,50岁以上
+43,C310676,Female,59,Clothing,5,WeChat Pay,1,2023,50岁以上
+62,C187422,Female,69,Clothing,2,Card,1,2023,50岁以上
+63,C488263,Female,64,Clothing,1,Card,1,2023,50岁以上
+72,C325757,Female,61,Clothing,3,Card,1,2023,50岁以上
+80,C876606,Female,59,Clothing,2,Card,1,2023,50岁以上
+82,C173996,Female,59,Cosmetics,1,Card,1,2023,50岁以上
+83,C295545,Female,64,Clothing,3,Alipay,1,2023,50岁以上
+90,C120670,Female,58,Clothing,3,Card,1,2023,50岁以上
+102,C654762,Female,54,Clothing,5,WeChat Pay,1,2023,50岁以上
+107,C968038,Female,60,Clothing,3,WeChat Pay,1,2023,50岁以上
+112,C227568,Female,68,Clothing,5,Alipay,1,2023,50岁以上
+115,C129645,Female,59,Clothing,2,Alipay,1,2023,50岁以上
+121,C196894,Female,54,Clothing,4,WeChat Pay,1,2023,50岁以上
+125,C169195,Female,62,Cosmetics,3,Alipay,1,2023,50岁以上
+126,C149392,Female,52,Cosmetics,3,WeChat Pay,1,2023,50岁以上
+127,C314798,Female,51,Clothing,3,WeChat Pay,1,2023,50岁以上
+128,C197040,Female,60,Clothing,1,Card,1,2023,50岁以上
+141,C115590,Female,65,Clothing,2,WeChat Pay,1,2023,50岁以上
+151,C281073,Female,55,Clothing,3,Alipay,1,2023,50岁以上
+153,C207786,Female,68,Cosmetics,5,Alipay,1,2023,50岁以上
+155,C128475,Female,60,Clothing,1,Alipay,1,2023,50岁以上
+158,C285875,Female,55,Cosmetics,3,WeChat Pay,1,2023,50岁以上
+159,C256457,Female,68,Clothing,4,Alipay,1,2023,50岁以上
+179,C213266,Female,65,Clothing,2,Card,1,2023,50岁以上
+183,C312949,Female,63,Clothing,4,Card,1,2023,50岁以上
+184,C185599,Female,59,Cosmetics,4,Card,1,2023,50岁以上
+187,C140196,Female,57,Clothing,5,Card,1,2023,50岁以上
+188,C316439,Female,50,Cosmetics,3,Alipay,1,2023,50岁以上
+214,C192180,Female,55,Clothing,3,Card,1,2023,50岁以上
+226,C583645,Female,52,Clothing,5,WeChat Pay,1,2023,50岁以上
+230,C154493,Female,60,Clothing,3,Card,1,2023,50岁以上
+242,C133434,Female,57,Clothing,3,Alipay,1,2023,50岁以上
+243,C971436,Female,67,Clothing,3,Alipay,1,2023,50岁以上
+244,C169976,Female,63,Clothing,3,Card,1,2023,50岁以上
+259,C244734,Female,64,Cosmetics,3,Card,1,2023,50岁以上
+269,C142176,Female,67,Clothing,2,Card,1,2023,50岁以上
+271,C273115,Female,66,Clothing,4,Card,1,2023,50岁以上
+304,C223099,Female,52,Clothing,1,WeChat Pay,1,2023,50岁以上
+307,C279009,Female,59,Clothing,1,Alipay,1,2023,50岁以上
+359,C807272,Female,56,Clothing,2,Card,1,2023,50岁以上
+375,C157362,Female,52,Clothing,4,Card,1,2023,50岁以上
+378,C216760,Female,50,Clothing,5,Card,1,2023,50岁以上
+386,C274092,Female,64,Cosmetics,3,WeChat Pay,1,2023,50岁以上
+393,C471629,Female,63,Clothing,1,WeChat Pay,1,2023,50岁以上
+404,C302421,Female,65,Cosmetics,2,Card,1,2023,50岁以上
+424,C259856,Female,57,Cosmetics,2,Alipay,1,2023,50岁以上
+426,C701005,Female,51,Clothing,5,Alipay,1,2023,50岁以上
+443,C919593,Female,64,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+448,C444281,Female,66,Clothing,2,Alipay,1,2023,50岁以上
+449,C346334,Female,62,Cosmetics,5,Card,1,2023,50岁以上
+453,C222698,Female,58,Clothing,5,Alipay,1,2023,50岁以上
+454,C239929,Female,69,Clothing,5,WeChat Pay,1,2023,50岁以上
+457,C160056,Female,66,Clothing,5,Card,1,2023,50岁以上
+467,C320774,Female,53,Clothing,3,Alipay,1,2023,50岁以上
+472,C135467,Female,58,Clothing,5,Card,1,2023,50岁以上
+474,C700273,Female,56,Cosmetics,4,Alipay,1,2023,50岁以上
+476,C255097,Female,56,Clothing,3,Card,1,2023,50岁以上
+491,C173602,Female,63,Clothing,5,Card,1,2023,50岁以上
+499,C599716,Female,52,Clothing,2,Card,1,2023,50岁以上
+500,C184486,Female,63,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+508,C574013,Female,59,Cosmetics,3,Card,1,2023,50岁以上
+518,C106279,Female,57,Clothing,2,Card,1,2023,50岁以上
+558,C321091,Female,54,Clothing,1,WeChat Pay,1,2023,50岁以上
+562,C818948,Female,61,Clothing,3,Card,1,2023,50岁以上
+591,C265902,Female,56,Clothing,1,Card,1,2023,50岁以上
+594,C777060,Female,60,Clothing,2,Card,1,2023,50岁以上
+596,C153222,Female,55,Clothing,4,WeChat Pay,1,2023,50岁以上
+613,C137998,Female,60,Cosmetics,2,Alipay,1,2023,50岁以上
+620,C175229,Female,62,Cosmetics,5,Card,1,2023,50岁以上
+631,C156966,Female,64,Cosmetics,5,Card,1,2023,50岁以上
+632,C997269,Female,66,Clothing,2,WeChat Pay,1,2023,50岁以上
+642,C307063,Female,68,Clothing,5,Card,1,2023,50岁以上
+643,C122492,Female,50,Clothing,3,WeChat Pay,1,2023,50岁以上
+646,C190629,Female,57,Clothing,2,Alipay,1,2023,50岁以上
+666,C413385,Female,63,Cosmetics,3,Card,1,2023,50岁以上
+686,C224245,Female,56,Clothing,3,Card,1,2023,50岁以上
+704,C141167,Female,53,Clothing,2,Alipay,1,2023,50岁以上
+735,C239923,Female,53,Clothing,2,WeChat Pay,1,2023,50岁以上
+737,C155995,Female,59,Clothing,5,Card,1,2023,50岁以上
+742,C105405,Female,64,Cosmetics,3,Alipay,1,2023,50岁以上
+744,C103229,Female,51,Clothing,5,Alipay,1,2023,50岁以上
+751,C177671,Female,61,Clothing,4,Card,1,2023,50岁以上
+760,C315571,Female,63,Clothing,4,WeChat Pay,1,2023,50岁以上
+761,C103297,Female,58,Clothing,5,Card,1,2023,50岁以上
+772,C268855,Female,65,Cosmetics,3,WeChat Pay,1,2023,50岁以上
+784,C780559,Female,69,Cosmetics,1,Alipay,1,2023,50岁以上
+808,C159237,Female,66,Clothing,3,WeChat Pay,1,2023,50岁以上
+816,C122281,Female,50,Clothing,2,WeChat Pay,1,2023,50岁以上
+839,C936042,Female,56,Clothing,3,Card,1,2023,50岁以上
+841,C255435,Female,62,Clothing,3,WeChat Pay,1,2023,50岁以上
+847,C826033,Female,63,Clothing,4,Alipay,1,2023,50岁以上
+849,C525711,Female,68,Cosmetics,5,Alipay,1,2023,50岁以上
+853,C162937,Female,60,Clothing,3,WeChat Pay,1,2023,50岁以上
+856,C325085,Female,52,Clothing,1,Card,1,2023,50岁以上
+880,C213417,Female,64,Cosmetics,4,Card,1,2023,50岁以上
+897,C161675,Female,65,Cosmetics,4,Card,1,2023,50岁以上
+900,C183346,Female,67,Cosmetics,3,Card,1,2023,50岁以上
+912,C283121,Female,67,Clothing,4,Card,1,2023,50岁以上
+928,C221962,Female,50,Clothing,3,Card,1,2023,50岁以上
+942,C165521,Female,68,Cosmetics,1,Alipay,1,2023,50岁以上
+951,C137734,Female,66,Cosmetics,2,Card,1,2023,50岁以上
+952,C606378,Female,63,Clothing,2,Card,1,2023,50岁以上
+960,C726816,Female,54,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+970,C180629,Female,57,Cosmetics,1,WeChat Pay,1,2023,50岁以上
+973,C612491,Female,56,Clothing,1,WeChat Pay,1,2023,50岁以上
+975,C326841,Female,62,Clothing,3,Alipay,1,2023,50岁以上
+996,C126031,Female,62,Clothing,5,WeChat Pay,1,2023,50岁以上
+1004,C402260,Female,56,Clothing,3,Card,1,2023,50岁以上
+1008,C296171,Female,68,Clothing,5,Card,1,2023,50岁以上
+1017,C325816,Female,55,Cosmetics,5,Card,1,2023,50岁以上
+1022,C200329,Female,59,Cosmetics,4,Card,1,2023,50岁以上
+1026,C369253,Female,69,Cosmetics,5,Card,1,2023,50岁以上
+1039,C128925,Female,57,Cosmetics,1,Alipay,1,2023,50岁以上
+1045,C107312,Female,61,Clothing,3,Card,1,2023,50岁以上
+1057,C273020,Female,65,Clothing,1,Card,1,2023,50岁以上
+1067,C262986,Female,50,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+1079,C306106,Female,64,Clothing,4,Card,1,2023,50岁以上
+1087,C123890,Female,68,Clothing,4,Card,1,2023,50岁以上
+1098,C110955,Female,62,Clothing,5,Alipay,1,2023,50岁以上
+1100,C624134,Female,56,Clothing,3,Card,1,2023,50岁以上
+1109,C110014,Female,69,Cosmetics,4,Card,1,2023,50岁以上
+1125,C149981,Female,60,Clothing,4,Alipay,1,2023,50岁以上
+1155,C184339,Female,60,Clothing,1,Card,1,2023,50岁以上
+1156,C263335,Female,61,Clothing,2,Card,1,2023,50岁以上
+1163,C421088,Female,55,Cosmetics,5,Card,1,2023,50岁以上
+1164,C955993,Female,60,Cosmetics,1,WeChat Pay,1,2023,50岁以上
+1167,C340561,Female,66,Cosmetics,4,Card,1,2023,50岁以上
+1168,C313090,Female,53,Clothing,2,Alipay,1,2023,50岁以上
+1170,C404636,Female,65,Clothing,5,Card,1,2023,50岁以上
+1176,C296916,Female,52,Cosmetics,1,Card,1,2023,50岁以上
+1178,C132532,Female,60,Clothing,4,Card,1,2023,50岁以上
+1190,C449026,Female,55,Cosmetics,1,WeChat Pay,1,2023,50岁以上
+1201,C330534,Female,52,Clothing,5,Card,1,2023,50岁以上
+1206,C882061,Female,58,Clothing,4,Card,1,2023,50岁以上
+1208,C117113,Female,69,Clothing,5,Card,1,2023,50岁以上
+1209,C528506,Female,69,Clothing,4,Card,1,2023,50岁以上
+1219,C465998,Female,53,Clothing,5,WeChat Pay,1,2023,50岁以上
+1225,C322625,Female,62,Clothing,1,Alipay,1,2023,50岁以上
+1228,C235618,Female,60,Clothing,1,Card,1,2023,50岁以上
+1243,C229148,Female,51,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+1258,C328501,Female,67,Clothing,1,Alipay,1,2023,50岁以上
+1261,C214184,Female,63,Clothing,2,Card,1,2023,50岁以上
+1270,C279238,Female,52,Clothing,3,WeChat Pay,1,2023,50岁以上
+1279,C323047,Female,62,Clothing,1,WeChat Pay,1,2023,50岁以上
+1304,C275957,Female,56,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+1319,C498183,Female,64,Clothing,5,Card,1,2023,50岁以上
+1327,C296652,Female,51,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+1332,C186333,Female,60,Clothing,4,WeChat Pay,1,2023,50岁以上
+1335,C112830,Female,66,Cosmetics,5,Alipay,1,2023,50岁以上
+1337,C248218,Female,64,Clothing,5,Card,1,2023,50岁以上
+1344,C353430,Female,68,Cosmetics,3,WeChat Pay,1,2023,50岁以上
+1347,C313460,Female,68,Clothing,5,Card,1,2023,50岁以上
+1348,C460358,Female,65,Clothing,2,Card,1,2023,50岁以上
+1357,C337516,Female,60,Clothing,1,Alipay,1,2023,50岁以上
+1360,C637037,Female,63,Clothing,5,Card,1,2023,50岁以上
+1373,C335953,Female,59,Clothing,4,Alipay,1,2023,50岁以上
+1374,C141222,Female,67,Clothing,2,Alipay,1,2023,50岁以上
+1375,C294238,Female,61,Cosmetics,2,Card,1,2023,50岁以上
+1391,C111845,Female,64,Clothing,1,WeChat Pay,1,2023,50岁以上
+1420,C128244,Female,64,Clothing,1,WeChat Pay,1,2023,50岁以上
+1441,C355806,Female,65,Clothing,4,Card,1,2023,50岁以上
+1459,C170281,Female,57,Clothing,2,Card,1,2023,50岁以上
+1463,C219151,Female,61,Clothing,3,Alipay,1,2023,50岁以上
+1473,C201669,Female,57,Clothing,2,Card,1,2023,50岁以上
+1491,C338863,Female,60,Clothing,1,Card,1,2023,50岁以上
+1496,C287550,Female,56,Cosmetics,1,Card,1,2023,50岁以上
+1534,C214732,Female,67,Clothing,2,Alipay,1,2023,50岁以上
+1537,C964698,Female,65,Clothing,3,Card,1,2023,50岁以上
+1541,C290147,Female,65,Cosmetics,3,Card,1,2023,50岁以上
+1546,C251381,Female,55,Clothing,2,Alipay,1,2023,50岁以上
+1548,C322512,Female,54,Clothing,5,Alipay,1,2023,50岁以上
+1554,C629051,Female,61,Clothing,4,Alipay,1,2023,50岁以上
+1557,C519514,Female,60,Clothing,4,Alipay,1,2023,50岁以上
+1564,C301810,Female,62,Clothing,4,Card,1,2023,50岁以上
+1568,C127479,Female,65,Clothing,2,WeChat Pay,1,2023,50岁以上
+1570,C200594,Female,58,Clothing,4,WeChat Pay,1,2023,50岁以上
+1575,C757565,Female,62,Clothing,2,Alipay,1,2023,50岁以上
+1579,C544588,Female,63,Clothing,1,Alipay,1,2023,50岁以上
+1586,C411326,Female,58,Clothing,1,WeChat Pay,1,2023,50岁以上
+1596,C960701,Female,56,Clothing,2,Alipay,1,2023,50岁以上
+1614,C301511,Female,57,Clothing,4,WeChat Pay,1,2023,50岁以上
+1625,C206176,Female,61,Clothing,4,Alipay,1,2023,50岁以上
+1637,C252784,Female,58,Clothing,3,Card,1,2023,50岁以上
+1639,C323844,Female,60,Clothing,4,Card,1,2023,50岁以上
+1642,C209710,Female,50,Clothing,3,WeChat Pay,1,2023,50岁以上
+1645,C151015,Female,57,Cosmetics,4,Alipay,1,2023,50岁以上
+1647,C319870,Female,64,Cosmetics,3,Card,1,2023,50岁以上
+1659,C321155,Female,66,Clothing,1,Alipay,1,2023,50岁以上
+1662,C116005,Female,65,Clothing,4,WeChat Pay,1,2023,50岁以上
+1666,C134290,Female,67,Cosmetics,3,Alipay,1,2023,50岁以上
+1670,C151779,Female,68,Clothing,5,Card,1,2023,50岁以上
+1686,C706846,Female,66,Clothing,5,Alipay,1,2023,50岁以上
+1690,C274812,Female,50,Clothing,5,Alipay,1,2023,50岁以上
+1712,C760069,Female,55,Clothing,3,Alipay,1,2023,50岁以上
+1720,C258525,Female,57,Clothing,3,WeChat Pay,1,2023,50岁以上
+1737,C363965,Female,59,Cosmetics,1,Card,1,2023,50岁以上
+1786,C314076,Female,61,Clothing,5,Card,1,2023,50岁以上
+1795,C886915,Female,56,Clothing,1,Card,1,2023,50岁以上
+1799,C108801,Female,51,Clothing,4,Alipay,1,2023,50岁以上
+1804,C732408,Female,65,Clothing,5,WeChat Pay,1,2023,50岁以上
+1810,C271742,Female,57,Clothing,4,Card,1,2023,50岁以上
+1826,C310606,Female,59,Clothing,2,Alipay,1,2023,50岁以上
+1832,C948995,Female,61,Clothing,4,Card,1,2023,50岁以上
+1835,C177209,Female,54,Clothing,5,Alipay,1,2023,50岁以上
+1840,C208377,Female,54,Clothing,2,Alipay,1,2023,50岁以上
+1843,C561758,Female,51,Cosmetics,2,Card,1,2023,50岁以上
+1844,C295498,Female,59,Cosmetics,5,Alipay,1,2023,50岁以上
+1869,C181182,Female,53,Clothing,5,Card,1,2023,50岁以上
+1891,C299410,Female,63,Cosmetics,4,Alipay,1,2023,50岁以上
+1892,C119336,Female,58,Cosmetics,1,Card,1,2023,50岁以上
+1894,C162334,Female,57,Clothing,1,Alipay,1,2023,50岁以上
+1897,C158534,Female,53,Clothing,2,Card,1,2023,50岁以上
+1919,C204309,Female,53,Clothing,1,Alipay,1,2023,50岁以上
+1928,C181634,Female,60,Clothing,2,Card,1,2023,50岁以上
+1930,C236310,Female,67,Clothing,3,Alipay,1,2023,50岁以上
+1938,C461456,Female,51,Clothing,1,Alipay,1,2023,50岁以上
+1941,C187508,Female,60,Clothing,2,Card,1,2023,50岁以上
+1950,C119949,Female,64,Cosmetics,3,Card,1,2023,50岁以上
+1957,C134191,Female,56,Clothing,3,WeChat Pay,1,2023,50岁以上
+1958,C311055,Female,63,Clothing,4,Alipay,1,2023,50岁以上
+1969,C191394,Female,56,Cosmetics,1,Card,1,2023,50岁以上
+1970,C271110,Female,61,Cosmetics,2,Alipay,1,2023,50岁以上
+1972,C240626,Female,57,Cosmetics,2,Alipay,1,2023,50岁以上
+1979,C165968,Female,68,Clothing,3,Alipay,1,2023,50岁以上
+1993,C282033,Female,54,Clothing,2,Alipay,1,2023,50岁以上
+1998,C164565,Female,55,Cosmetics,2,Card,1,2023,50岁以上
+2015,C132317,Female,58,Clothing,3,Alipay,1,2023,50岁以上
+2023,C283586,Female,64,Clothing,1,Alipay,1,2023,50岁以上
+2029,C199888,Female,69,Clothing,5,WeChat Pay,1,2023,50岁以上
+2049,C101229,Female,61,Clothing,1,WeChat Pay,1,2023,50岁以上
+2059,C256961,Female,57,Clothing,2,Card,1,2023,50岁以上
+2060,C163290,Female,54,Clothing,3,Alipay,1,2023,50岁以上
+2061,C343492,Female,55,Cosmetics,5,Card,1,2023,50岁以上
+2074,C321565,Female,67,Clothing,3,Alipay,1,2023,50岁以上
+2076,C231739,Female,66,Clothing,1,Card,1,2023,50岁以上
+2082,C211705,Female,57,Clothing,1,Card,1,2023,50岁以上
+2086,C973192,Female,66,Clothing,1,Alipay,1,2023,50岁以上
+2090,C321434,Female,69,Clothing,2,Card,1,2023,50岁以上
+2103,C409213,Female,59,Clothing,2,Alipay,1,2023,50岁以上
+2104,C137166,Female,64,Clothing,4,Card,1,2023,50岁以上
+2115,C171798,Female,62,Clothing,4,Alipay,1,2023,50岁以上
+2137,C235180,Female,61,Cosmetics,5,Alipay,1,2023,50岁以上
+2145,C904439,Female,62,Clothing,4,Alipay,1,2023,50岁以上
+2157,C201050,Female,68,Clothing,4,Card,1,2023,50岁以上
+2158,C139323,Female,50,Cosmetics,3,Card,1,2023,50岁以上
+2169,C198601,Female,52,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+2171,C932889,Female,52,Cosmetics,1,Card,1,2023,50岁以上
+2180,C255250,Female,60,Clothing,4,Card,1,2023,50岁以上
+2203,C159447,Female,59,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+2208,C187053,Female,54,Cosmetics,2,Alipay,1,2023,50岁以上
+2224,C296729,Female,50,Clothing,3,Alipay,1,2023,50岁以上
+2225,C167830,Female,52,Clothing,1,Card,1,2023,50岁以上
+2227,C252124,Female,62,Cosmetics,4,Alipay,1,2023,50岁以上
+2235,C212130,Female,66,Clothing,4,WeChat Pay,1,2023,50岁以上
+2236,C102255,Female,69,Clothing,2,WeChat Pay,1,2023,50岁以上
+2241,C143250,Female,62,Cosmetics,4,Alipay,1,2023,50岁以上
+2243,C117021,Female,66,Clothing,2,Alipay,1,2023,50岁以上
+2253,C122533,Female,60,Clothing,3,WeChat Pay,1,2023,50岁以上
+2254,C292074,Female,64,Clothing,3,Card,1,2023,50岁以上
+2272,C114650,Female,65,Clothing,4,Card,1,2023,50岁以上
+2292,C206088,Female,57,Cosmetics,3,Alipay,1,2023,50岁以上
+2304,C517456,Female,64,Clothing,1,Card,1,2023,50岁以上
+2310,C163396,Female,52,Clothing,1,Alipay,1,2023,50岁以上
+2333,C148471,Female,69,Clothing,5,WeChat Pay,1,2023,50岁以上
+2336,C177868,Female,53,Clothing,3,Alipay,1,2023,50岁以上
+2342,C194806,Female,52,Clothing,3,Card,1,2023,50岁以上
+2356,C286684,Female,61,Clothing,4,WeChat Pay,1,2023,50岁以上
+2359,C320438,Female,64,Clothing,3,Card,1,2023,50岁以上
+2361,C192973,Female,59,Clothing,5,WeChat Pay,1,2023,50岁以上
+2363,C317531,Female,51,Cosmetics,1,Card,1,2023,50岁以上
+2377,C285550,Female,68,Cosmetics,3,Alipay,1,2023,50岁以上
+2380,C181144,Female,62,Clothing,5,Alipay,1,2023,50岁以上
+2386,C275913,Female,67,Clothing,4,Card,1,2023,50岁以上
+2404,C328400,Female,59,Clothing,3,Card,1,2023,50岁以上
+2417,C229773,Female,51,Clothing,4,WeChat Pay,1,2023,50岁以上
+2442,C265822,Female,51,Clothing,4,Card,1,2023,50岁以上
+2447,C174489,Female,68,Clothing,1,Card,1,2023,50岁以上
+2451,C232637,Female,69,Clothing,2,Card,1,2023,50岁以上
+2465,C315985,Female,56,Clothing,5,Alipay,1,2023,50岁以上
+2466,C295684,Female,51,Clothing,1,Alipay,1,2023,50岁以上
+2474,C904217,Female,68,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+2482,C101253,Female,53,Clothing,5,WeChat Pay,1,2023,50岁以上
+2506,C574330,Female,60,Clothing,1,Card,1,2023,50岁以上
+2521,C131226,Female,62,Cosmetics,2,Alipay,1,2023,50岁以上
+2544,C202771,Female,68,Clothing,3,Card,1,2023,50岁以上
+2554,C224578,Female,64,Clothing,3,Alipay,1,2023,50岁以上
+2568,C290038,Female,60,Clothing,1,Card,1,2023,50岁以上
+2575,C277604,Female,64,Clothing,4,Card,1,2023,50岁以上
+2578,C261735,Female,64,Clothing,5,WeChat Pay,1,2023,50岁以上
+2617,C205500,Female,68,Cosmetics,4,Card,1,2023,50岁以上
+2621,C106324,Female,65,Clothing,1,WeChat Pay,1,2023,50岁以上
+2626,C289866,Female,64,Cosmetics,4,Alipay,1,2023,50岁以上
+2635,C300621,Female,61,Clothing,5,Card,1,2023,50岁以上
+2652,C199002,Female,51,Cosmetics,3,Alipay,1,2023,50岁以上
+2659,C149106,Female,69,Cosmetics,3,Card,1,2023,50岁以上
+2661,C690805,Female,54,Clothing,1,Card,1,2023,50岁以上
+2676,C542206,Female,62,Clothing,2,Card,1,2023,50岁以上
+2696,C307862,Female,60,Clothing,3,Alipay,1,2023,50岁以上
+2709,C445850,Female,57,Cosmetics,5,Card,1,2023,50岁以上
+2718,C249821,Female,68,Clothing,1,Card,1,2023,50岁以上
+2723,C326381,Female,63,Clothing,3,Alipay,1,2023,50岁以上
+2728,C250052,Female,66,Cosmetics,1,Alipay,1,2023,50岁以上
+2729,C244784,Female,64,Clothing,5,Alipay,1,2023,50岁以上
+2732,C253724,Female,69,Clothing,1,Alipay,1,2023,50岁以上
+2740,C943193,Female,56,Cosmetics,5,Alipay,1,2023,50岁以上
+2743,C158008,Female,62,Clothing,2,Card,1,2023,50岁以上
+2767,C122797,Female,57,Clothing,3,Card,1,2023,50岁以上
+2779,C104725,Female,64,Cosmetics,2,Alipay,1,2023,50岁以上
+2789,C172215,Female,55,Clothing,2,Alipay,1,2023,50岁以上
+2807,C963868,Female,67,Clothing,3,Card,1,2023,50岁以上
+2818,C132553,Female,66,Clothing,1,Alipay,1,2023,50岁以上
+2821,C690781,Female,66,Clothing,4,Card,1,2023,50岁以上
+2852,C137192,Female,56,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+2859,C142372,Female,51,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+2865,C131652,Female,66,Clothing,3,Card,1,2023,50岁以上
+2870,C131176,Female,58,Cosmetics,5,Alipay,1,2023,50岁以上
+2873,C846775,Female,60,Clothing,5,Card,1,2023,50岁以上
+2876,C169900,Female,56,Cosmetics,3,Card,1,2023,50岁以上
+2880,C941170,Female,53,Clothing,1,Card,1,2023,50岁以上
+2885,C270807,Female,52,Clothing,5,Alipay,1,2023,50岁以上
+2892,C169940,Female,52,Clothing,4,Alipay,1,2023,50岁以上
+2896,C272119,Female,60,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+2897,C196194,Female,68,Clothing,4,WeChat Pay,1,2023,50岁以上
+2905,C167436,Female,55,Cosmetics,1,Alipay,1,2023,50岁以上
+2916,C808060,Female,64,Cosmetics,2,Card,1,2023,50岁以上
+2918,C138401,Female,50,Cosmetics,1,Card,1,2023,50岁以上
+2923,C210341,Female,63,Cosmetics,4,Alipay,1,2023,50岁以上
+2930,C120179,Female,57,Clothing,5,WeChat Pay,1,2023,50岁以上
+2933,C258603,Female,60,Clothing,5,WeChat Pay,1,2023,50岁以上
+2945,C185136,Female,50,Cosmetics,1,WeChat Pay,1,2023,50岁以上
+2946,C142229,Female,61,Cosmetics,4,Alipay,1,2023,50岁以上
+2949,C206528,Female,66,Cosmetics,1,Card,1,2023,50岁以上
+2954,C315902,Female,66,Clothing,1,Card,1,2023,50岁以上
+2962,C287571,Female,68,Clothing,1,Alipay,1,2023,50岁以上
+2964,C185919,Female,69,Cosmetics,2,Alipay,1,2023,50岁以上
+2965,C223736,Female,69,Cosmetics,2,Card,1,2023,50岁以上
+2969,C126820,Female,60,Clothing,3,Alipay,1,2023,50岁以上
+2990,C211855,Female,50,Clothing,3,Card,1,2023,50岁以上
+2994,C367955,Female,61,Clothing,5,WeChat Pay,1,2023,50岁以上
+3003,C329985,Female,63,Clothing,4,Card,1,2023,50岁以上
+3023,C899952,Female,69,Clothing,2,Alipay,1,2023,50岁以上
+3048,C212625,Female,57,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+3058,C753285,Female,53,Cosmetics,5,Card,1,2023,50岁以上
+3075,C163297,Female,54,Clothing,2,Card,1,2023,50岁以上
+3088,C380669,Female,68,Clothing,5,Alipay,1,2023,50岁以上
+3095,C130620,Female,63,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3096,C239049,Female,50,Cosmetics,4,Card,1,2023,50岁以上
+3099,C532161,Female,56,Clothing,5,Card,1,2023,50岁以上
+3100,C291019,Female,58,Clothing,3,Card,1,2023,50岁以上
+3125,C276667,Female,68,Clothing,5,Card,1,2023,50岁以上
+3126,C836912,Female,54,Clothing,5,WeChat Pay,1,2023,50岁以上
+3131,C251234,Female,58,Clothing,2,Alipay,1,2023,50岁以上
+3167,C161413,Female,60,Cosmetics,3,Alipay,1,2023,50岁以上
+3175,C128485,Female,62,Clothing,2,Card,1,2023,50岁以上
+3185,C339153,Female,64,Clothing,3,Card,1,2023,50岁以上
+3196,C558133,Female,51,Cosmetics,5,Alipay,1,2023,50岁以上
+3207,C295746,Female,58,Clothing,2,Card,1,2023,50岁以上
+3217,C226632,Female,50,Clothing,1,Card,1,2023,50岁以上
+3240,C181048,Female,53,Clothing,3,WeChat Pay,1,2023,50岁以上
+3248,C745351,Female,62,Cosmetics,5,Card,1,2023,50岁以上
+3253,C306997,Female,58,Clothing,4,Card,1,2023,50岁以上
+3259,C205204,Female,52,Cosmetics,1,Alipay,1,2023,50岁以上
+3270,C121395,Female,55,Clothing,4,Alipay,1,2023,50岁以上
+3271,C879947,Female,57,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3273,C193020,Female,52,Clothing,4,Card,1,2023,50岁以上
+3295,C756217,Female,51,Cosmetics,4,WeChat Pay,1,2023,50岁以上
+3310,C550061,Female,67,Clothing,2,Card,1,2023,50岁以上
+3311,C252414,Female,60,Clothing,3,Alipay,1,2023,50岁以上
+3313,C221738,Female,62,Clothing,4,Card,1,2023,50岁以上
+3319,C398365,Female,62,Clothing,1,Alipay,1,2023,50岁以上
+3333,C464542,Female,52,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3360,C216776,Female,59,Clothing,5,Alipay,1,2023,50岁以上
+3380,C105300,Female,67,Cosmetics,4,Alipay,1,2023,50岁以上
+3383,C942313,Female,57,Cosmetics,1,Card,1,2023,50岁以上
+3397,C662613,Female,50,Clothing,1,Card,1,2023,50岁以上
+3414,C224147,Female,54,Cosmetics,4,Card,1,2023,50岁以上
+3416,C299002,Female,51,Clothing,3,Alipay,1,2023,50岁以上
+3420,C115704,Female,55,Clothing,4,Alipay,1,2023,50岁以上
+3429,C167423,Female,61,Clothing,1,WeChat Pay,1,2023,50岁以上
+3430,C324305,Female,52,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3436,C222427,Female,61,Clothing,2,Alipay,1,2023,50岁以上
+3442,C245652,Female,51,Clothing,3,Card,1,2023,50岁以上
+3443,C391421,Female,50,Cosmetics,1,Alipay,1,2023,50岁以上
+3444,C338026,Female,53,Clothing,5,Card,1,2023,50岁以上
+3457,C991418,Female,56,Clothing,2,Card,1,2023,50岁以上
+3463,C266321,Female,53,Clothing,3,Card,1,2023,50岁以上
+3464,C253321,Female,69,Cosmetics,4,Alipay,1,2023,50岁以上
+3469,C334622,Female,68,Cosmetics,3,Alipay,1,2023,50岁以上
+3470,C203413,Female,63,Clothing,4,Alipay,1,2023,50岁以上
+3478,C406112,Female,63,Clothing,5,Alipay,1,2023,50岁以上
+3486,C314061,Female,67,Clothing,4,Card,1,2023,50岁以上
+3492,C191374,Female,68,Cosmetics,5,Alipay,1,2023,50岁以上
+3498,C504296,Female,69,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3520,C227720,Female,64,Clothing,2,Alipay,1,2023,50岁以上
+3528,C920810,Female,57,Cosmetics,5,WeChat Pay,1,2023,50岁以上
+3538,C240076,Female,56,Clothing,2,Card,1,2023,50岁以上
+3539,C243336,Female,62,Cosmetics,2,WeChat Pay,1,2023,50岁以上
+3543,C272410,Female,64,Clothing,5,Alipay,1,2023,50岁以上
+3553,C736901,Female,58,Clothing,4,WeChat Pay,1,2023,50岁以上
+3555,C304999,Female,67,Clothing,2,Alipay,1,2023,50岁以上
+3560,C191120,Female,69,Clothing,3,Card,1,2023,50岁以上
+3568,C148166,Female,55,Clothing,4,Card,1,2023,50岁以上
+3574,C191473,Female,50,Clothing,2,Card,1,2023,50岁以上
+3575,C133276,Female,54,Clothing,5,Card,1,2023,50岁以上
+3576,C356763,Female,52,Clothing,4,WeChat Pay,1,2023,50岁以上
+3577,C460493,Female,53,Clothing,2,Card,1,2023,50岁以上
+3582,C637750,Female,60,Clothing,5,Alipay,1,2023,50岁以上
+3585,C264600,Female,68,Clothing,5,Card,1,2023,50岁以上
+3602,C853812,Female,51,Clothing,4,WeChat Pay,1,2023,50岁以上
+3639,C883945,Female,64,Clothing,5,Alipay,1,2023,50岁以上
+3643,C118167,Female,50,Cosmetics,2,Alipay,1,2023,50岁以上
+3660,C264013,Female,57,Cosmetics,2,Alipay,1,2023,50岁以上
+3671,C339038,Female,51,Clothing,2,WeChat Pay,1,2023,50岁以上
+3674,C284830,Female,61,Clothing,1,Alipay,1,2023,50岁以上
+3682,C275478,Female,61,Clothing,1,Card,1,2023,50岁以上
+3685,C339245,Female,50,Clothing,2,Card,1,2023,50岁以上
+3689,C837603,Female,59,Clothing,1,Card,1,2023,50岁以上
+3695,C317102,Female,57,Clothing,2,Alipay,1,2023,50岁以上
+3705,C494720,Female,67,Clothing,4,Card,1,2023,50岁以上
+3723,C184038,Female,56,Cosmetics,5,Card,1,2023,50岁以上
+3724,C141149,Female,66,Cosmetics,4,Card,1,2023,50岁以上
+3731,C151343,Female,63,Clothing,4,Alipay,1,2023,50岁以上
+3740,C230290,Female,69,Cosmetics,4,Card,1,2023,50岁以上
+3745,C245544,Female,60,Cosmetics,3,Card,1,2023,50岁以上
+3750,C138062,Female,50,Clothing,5,Card,1,2023,50岁以上
+3759,C830453,Female,62,Clothing,1,WeChat Pay,1,2023,50岁以上
+3771,C220057,Female,62,Clothing,2,Card,1,2023,50岁以上
+3775,C593836,Female,62,Clothing,5,Card,1,2023,50岁以上
+3776,C164315,Female,55,Cosmetics,3,Alipay,1,2023,50岁以上
+3784,C110465,Female,63,Cosmetics,5,Alipay,1,2023,50岁以上
+3785,C242800,Female,60,Cosmetics,3,Card,1,2023,50岁以上
+3787,C305376,Female,62,Clothing,2,Card,1,2023,50岁以上
+3794,C101278,Female,59,Clothing,3,Card,1,2023,50岁以上
+3812,C263395,Female,68,Clothing,1,Alipay,1,2023,50岁以上
+3828,C122415,Female,60,Clothing,1,WeChat Pay,1,2023,50岁以上
+3852,C148398,Female,63,Clothing,1,Alipay,1,2023,50岁以上
+3857,C208272,Female,62,Clothing,3,Alipay,1,2023,50岁以上
+3877,C935049,Female,68,Cosmetics,3,Card,1,2023,50岁以上
+3878,C435665,Female,56,Clothing,3,Alipay,1,2023,50岁以上
+3883,C283907,Female,56,Clothing,3,WeChat Pay,1,2023,50岁以上
